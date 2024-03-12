@@ -1,0 +1,2 @@
+#define GRAVE_ESC_GUI_OVERRIDE
+#define DEBOUNCE 50
